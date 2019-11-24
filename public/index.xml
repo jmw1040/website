@@ -6,10 +6,19 @@
     <description>Recent content on JMW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2019 11:22:51 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2019 11:41:46 -0800</lastBuildDate>
     
 	<atom:link href="https://jmw.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About me</title>
+      <link>https://jmw.netlify.com/about/</link>
+      <pubDate>Sun, 24 Nov 2019 11:41:46 -0800</pubDate>
+      
+      <guid>https://jmw.netlify.com/about/</guid>
+      <description>Hello! Welcome.</description>
+    </item>
     
     <item>
       <title>Third_page</title>

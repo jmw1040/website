@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jmw.netlify.com/art/</loc>
-    <lastmod>2019-11-24T11:22:51-08:00</lastmod>
+    <loc>https://jmw.netlify.com/about/</loc>
+    <lastmod>2019-11-24T11:41:46-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jmw.netlify.com/</loc>
+    <lastmod>2019-11-24T11:41:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmw.netlify.com/art/</loc>
     <lastmod>2019-11-24T11:22:51-08:00</lastmod>
   </url>
   
