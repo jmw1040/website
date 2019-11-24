@@ -1,0 +1,28 @@
+baseURL = "https://jmw.netlify.com"
+languageCode = "en-us"
+title = "JMW"
+author = "Jenny Wang"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Jenny Wang"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Resume"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Art" 
+    url  = "https://jmw.netlify.com/art/art_landing_page/"
+
