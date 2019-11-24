@@ -6,10 +6,19 @@
     <description>Recent content in Arts on JMW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2019 11:22:37 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2019 11:22:51 -0800</lastBuildDate>
     
 	<atom:link href="https://jmw.netlify.com/art/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third_page</title>
+      <link>https://jmw.netlify.com/art/third_page/</link>
+      <pubDate>Sun, 24 Nov 2019 11:22:51 -0800</pubDate>
+      
+      <guid>https://jmw.netlify.com/art/third_page/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trying</title>
