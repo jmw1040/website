@@ -1,7 +1,7 @@
 ---
 title: 'bernie'
 date: 2020-01-17T20:00:00-08:00
-draft: true
+draft: false
 ---
 
 This is really interesting:

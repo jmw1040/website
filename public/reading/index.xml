@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JMW</title>
-    <link>https://jmw.netlify.com/</link>
-    <description>Recent content on JMW</description>
+    <title>Readings on JMW</title>
+    <link>https://jmw.netlify.com/reading/</link>
+    <description>Recent content in Readings on JMW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2020 20:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://jmw.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jmw.netlify.com/reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,24 +18,6 @@
       
       <guid>https://jmw.netlify.com/reading/bernie_article2019/</guid>
       <description>This is really interesting: &amp;ldquo;The 2010 tea party wave brought more poor and working-class districts into the GOP fold, accelerating the realignment, but it was 2018 that cemented Democrats as the party of people who shop at Whole Foods. In 1960, Democrats represented nearly every district in the bottom fifth of average income, and roughly half of the richest. After the 2018 midterms, they represented 83 percent of the richest districts.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://jmw.netlify.com/about/</link>
-      <pubDate>Sun, 24 Nov 2019 11:41:46 -0800</pubDate>
-      
-      <guid>https://jmw.netlify.com/about/</guid>
-      <description>Hello! Welcome.</description>
-    </item>
-    
-    <item>
-      <title>Welcome!</title>
-      <link>https://jmw.netlify.com/first_post/</link>
-      <pubDate>Sun, 24 Nov 2019 11:07:25 -0800</pubDate>
-      
-      <guid>https://jmw.netlify.com/first_post/</guid>
-      <description></description>
     </item>
     
   </channel>
