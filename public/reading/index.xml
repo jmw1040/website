@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readings on JMW</title>
-    <link>https://jmw.netlify.com/reading/</link>
+    <link>/reading/</link>
     <description>Recent content in Readings on JMW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jan 2020 20:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jmw.netlify.com/reading/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>bernie</title>
-      <link>https://jmw.netlify.com/reading/bernie_article2019/</link>
-      <pubDate>Fri, 17 Jan 2020 20:00:00 -0800</pubDate>
+      <title>Recent reading</title>
+      <link>/reading/reading_landing_page/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jmw.netlify.com/reading/bernie_article2019/</guid>
-      <description>This is really interesting: &amp;ldquo;The 2010 tea party wave brought more poor and working-class districts into the GOP fold, accelerating the realignment, but it was 2018 that cemented Democrats as the party of people who shop at Whole Foods. In 1960, Democrats represented nearly every district in the bottom fifth of average income, and roughly half of the richest. After the 2018 midterms, they represented 83 percent of the richest districts.</description>
+      <guid>/reading/reading_landing_page/</guid>
+      <description> Books  The Source of Self-Regard - Toni Morrison (current) Normal People - Sally Rooney Sing, Unburied, Sing - Jesmyn Ward The Art of Learning - Josh Waitzkin  Articles  The Productive Career of Robert Solow - Peter Dizikes, MIT Review The Lingering of Loss - Jill Lepore, The New Yorker  Papers  Does Working from Home Work - Bloom et al 2015, QJE Differences in Differences with Variation in Treatment Timing - Goodman-Bacon 2019  More  Goodreads Online reading &amp;amp; quotes  </description>
     </item>
     
   </channel>

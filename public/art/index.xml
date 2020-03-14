@@ -2,48 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts on JMW</title>
-    <link>https://jmw.netlify.com/art/</link>
+    <link>/art/</link>
     <description>Recent content in Arts on JMW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2019 11:22:51 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 11:12:11 -0800</lastBuildDate>
     
-	<atom:link href="https://jmw.netlify.com/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/art/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Third_page</title>
-      <link>https://jmw.netlify.com/art/third_page/</link>
-      <pubDate>Sun, 24 Nov 2019 11:22:51 -0800</pubDate>
-      
-      <guid>https://jmw.netlify.com/art/third_page/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Trying</title>
-      <link>https://jmw.netlify.com/art/trying/</link>
-      <pubDate>Sun, 24 Nov 2019 11:22:37 -0800</pubDate>
+      <title>Art landing page</title>
+      <link>/art/art_landing_page/</link>
+      <pubDate>Sat, 14 Mar 2020 11:12:11 -0800</pubDate>
       
-      <guid>https://jmw.netlify.com/art/trying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test_piece</title>
-      <link>https://jmw.netlify.com/art/pieces/test_piece/</link>
-      <pubDate>Sun, 24 Nov 2019 11:13:10 -0800</pubDate>
-      
-      <guid>https://jmw.netlify.com/art/pieces/test_piece/</guid>
-      <description> Look at this amazing Chicken I drew </description>
-    </item>
-    
-    <item>
-      <title>Art_landing_page</title>
-      <link>https://jmw.netlify.com/art/art_landing_page/</link>
-      <pubDate>Sun, 24 Nov 2019 11:12:11 -0800</pubDate>
-      
-      <guid>https://jmw.netlify.com/art/art_landing_page/</guid>
+      <guid>/art/art_landing_page/</guid>
       <description>ART HERE GET YOUR ART HERE Art art</description>
     </item>
     
