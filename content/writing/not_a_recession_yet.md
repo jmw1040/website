@@ -4,7 +4,7 @@ date: 2020-04-01T10:41:46-05:00
 draft: False
 ---
 
-It's true that unemployment is skyrocketing, and the painful anecdotes behind the terrifying numbers are somber reminders of how an economy operating at half-capacity has disproportionately crippling repercussions for our most vulnerable populations. However, the debate around COVID-19 public health and financial policies has stagnated in the face of a false dichotomy - succincly characterized by the trending phrase - "GDP or Grandma". 
+It's true that unemployment is skyrocketing. The painful anecdotes behind the terrifying numbers are somber reminders of how an economy operating at half-capacity disproportionately burdens our most vulnerable populations. However, the debate around COVID-19 public health and financial policies has stagnated in the face of a false dichotomy - succinctly characterized by the trending phrase - "GDP or Grandma". 
 
 Many have voiced their opposition to this facetious "debate" (links below to some I've come across). But I take issue with something even more seemingly innocuous: I disagree with the barrage of NYT headlines and amateur thinkpieces that posit about the current economic landscape in the context of previous economic recessions. 
 
