@@ -21,7 +21,7 @@ pygmentscodefences  = true
     url  = "/reading/reading_landing_page"
 [[menu.main]]
     name = "Writing"
-    url  = "/writing"
+    url  = "/writing/writing_landing_page"
 [[menu.main]]
     name = "Art" 
     url  = "/art/art_landing_page"
