@@ -19,6 +19,7 @@ Any policy that fails to recognize the severity and urgency of the situation at 
 I have so many caveats left unsaid (maybe will edit them back in later), so a lot of the above is probably unfair at face valuee... and I recognize that this ends up as yet another amateur thinkpiece on COVID-19... Maybe more to come later.
 
 Stuff I've been reading (AKA context for my opinions):
+
 1. [Neale Mahoney's brief](https://review.chicagobooth.edu/economics/2020/article/don-t-fall-false-trade-offs-covid-19-policy) on the false dichotomy at the core of recent debate is quick, to-the-point, and captures most of what I believe needs to be said around this issue
 
 2. [G Elliot Morris's reaction](https://thecrosstab.substack.com/p/this-is-a-full-blown-recession-if) to unemployment rates is one example of many that falls into this temptation to contextualize this with previous recessions in the U.S. (and unluckily happened  to be the last straw for me after a whole month of similarly themed thinkpieces)

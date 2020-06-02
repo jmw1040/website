@@ -1,0 +1,11 @@
+---
+title: "Reflections on some advice about comparisons"
+date: 2020-06-02T10:31:47-05:00
+draft: false
+---
+
+May 2020 was a rollercoaster of a month, with my struggles (and triumphs) in productivity driving most of the variation in my mood, self-esteem, ability to be supportive of others, etc. Now, after a full week of having recovered from feeling under the weather, it is Monday morning of a new week, it's the first day of a new month, and it feels like a good opportunity to try to parse a few of the scattered thoughts I've had in the past few weeks. 
+
+Firstly, I still feel like I am somehow "in limbo," which affects the way that I approach my day-to-day. Three months into quarantine, and it still feels like I'm trying to figure out how to navigate the "new" situation. Having a mindset like this can be harmful in that I am less willing to embrace what's present. I hesitate to make this about "taking advantage of opportunities I have now" because my point is that it's not really healthy or productive to think about this situation in contrast to the situation that existed in the past. I am working to let go of the comparisons I've been harboring, with both the pre-COVID past and the expectations (illusion?) of higher productivity 
+
+Secondly, I am reflecting on various pieces of very good advice I've gotten - from a mentor but also echoed by a very close friend - about being true to self. This is another place where I have struggled with comparisons - in particular, comparisons to other people. I am privileged and lucky enough to be surrounded by incredibly driven, smart, creative folks. When I am able to let go of the urge to compare myself to them in units of outcomes/perceptions, interactions with these peers can be such exciting, meaningful learning experiences. But I realize, being open and receptive to new insights isn't about being passive and suppressing your voice and your thoughts. It is absolutely a process that you gain the most from if you come into these interactions as a really grounded, prepared (more on this later), confident whole being. I have a hard time giving myself credit and recognizing that the myriad of experiences that I uniquely have had shape my views and opinions in a way that is important for me to recognize. 
