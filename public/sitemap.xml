@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/charities_wtp/</loc>
+    <lastmod>2020-06-02T10:36:56-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-06-02T10:31:47-05:00</lastmod>
+    <lastmod>2020-06-02T10:36:56-05:00</lastmod>
   </url>
   
   <url>
     <loc>/reflections_on_advice/</loc>
     <lastmod>2020-06-02T10:31:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/favorite_tools/</loc>
+    <lastmod>2020-04-28T10:36:56-05:00</lastmod>
   </url>
   
   <url>
