@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/charities_wtp/</loc>
-    <lastmod>2020-06-02T10:36:56-05:00</lastmod>
+    <loc>/escaping_trump/</loc>
+    <lastmod>2020-09-20T09:40:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/writing/bernie_article2019/</loc>
+    <lastmod>2020-06-06T20:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-06T20:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/writing/</loc>
+    <lastmod>2020-06-06T20:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/listening/</loc>
+    <lastmod>2020-06-03T10:39:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/charities_wtp/</loc>
     <lastmod>2020-06-02T10:36:56-05:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>/writing/writing_landing_page/</loc>
-    <lastmod>2020-04-02T20:44:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/</loc>
     <lastmod>2020-04-02T20:44:47-05:00</lastmod>
   </url>
   
