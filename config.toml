@@ -10,7 +10,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Jenny Wang"
+  sitename = "JMW"
   disableWebFonts = false
 
 [[menu.main]]

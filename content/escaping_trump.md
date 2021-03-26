@@ -1,7 +1,7 @@
 ---
-title: "Escaping_trump"
+title: "Escaping Trump"
 date: 2020-09-20T09:40:35-07:00
-draft: false
+draft: true
 ---
 
 Two thoughts on the wave of "I am so done with this country. I am escaping to Canada." commentary I heard a lot of in 2016 when Donald Trump was first elected: 
